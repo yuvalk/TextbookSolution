@@ -10,7 +10,7 @@
     "http-server": "latest",
     "serverless": "latest",
     "serverless-plugin-include-dependencies": "latest",
-    "jasmine": "latest"
+    "jasmine": "3.99.0"
   },
   "repository": {
     "type": "git",
