@@ -9,7 +9,7 @@
   "dependencies": {
     "http-server": "latest",
     "serverless": "latest",
-    "serverless-plugin-include-dependencies": "latest",
+    "serverless-plugin-include-dependencies": "3.2.1",
     "jasmine": "latest"
   },
   "repository": {
