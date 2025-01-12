@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "fabolous bank backend",
   "dependencies": {
-    "neo4j-driver": "latest"
+    "neo4j-driver": "1.7.8"
   },
   "author": "PoalimX",
   "license": "ISC"
