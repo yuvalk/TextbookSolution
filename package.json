@@ -7,9 +7,9 @@
     "test": "bash ci/test.sh"
   },
   "dependencies": {
-    "http-server": "latest",
+    "http-server": "0.11.2",
     "serverless": "latest",
-    "serverless-plugin-include-dependencies": "latest",
+    "serverless-plugin-include-dependencies": "5.0.0",
     "jasmine": "latest"
   },
   "repository": {
